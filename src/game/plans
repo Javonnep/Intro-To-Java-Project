@@ -1,0 +1,8 @@
+- change gravity mode to switch with press of Q button
+
+- add lives to character
+
+- add floor beneath that has collision detection
+collision will teleport player to home and remove a life
+
+- try to add collistener to projectile instead

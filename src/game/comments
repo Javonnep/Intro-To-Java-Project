@@ -1,0 +1,68 @@
+remove all trace of level 4,, done
+bg sounds
+make my code look neat,, i did my best lol
+
+the top 5 scores are shown on the screen OR JUST SOMEWHERE PLEASE,, done
+DECORATE LEVEL 4,, not needed
+
+fix saves again,, done
+
+saving game only works at start of level done
+fix shooting on l3/l4 done
+branches damaged by shooting not player contact,, low priority. maybe
+
+PROBLEM: THE FIRST COIN OBTAINED FROM OUTSIDE
+OF LEVEL 1 WILL ALWAYS COUNT AS NINE COINS
+(done)
+
+score should carry through levels,, done
+saving highscore is only allowed on level 4,, done
+save with GUI buttons rather than keyboard,, maybe unnecessary
+
+order relating to score handling, what??
+
+once you get to level 4 you get a score added to the txt done
+orderScore class becomes relevant in Level4 class done
+
+show player stats onscreen,, no
+show highScores on screen on level 4
+name entered MUST NOT be null done
+
+order scores from highest to lowest / load highest scores somehow done
+add level 4 finale level done
+fix score in-game done
+
+add borders ,,done
+a dropdown including controls ,,later ,,done
+change update button to a restart button ,,no,, done
+
+check for variable game sizes using if statement done, no :(
+
+all i can do:
+delete shooting for l1
+add 2 more lvls
+add 1 more
+
+PRIORITY
+MAKE PELLETS ADD LIFE WITH COLLLISTENER done
+ADD SHOOTING
+
+// cannot resolve = you didn't use method correctly ( Or emthod does not apply to object type)
+
+// class fields
+// constructor
+// methods
+// getter methods
+// setter methods
+
+// make items circleshape
+
+add text onscreen to indicate gravity mode of character
+(lecture4 probably)
+
+add floor incase player falls (collision ==> setpos startpos, death count++)
+
+make change bg for lvl 2 and make done
+view scrollable as player moves to left or right nah
+
+level 2, falling constantly with only deathplatforms done
