@@ -1,4 +1,4 @@
-*The game was developed on a laptop with a smaller screen+smaller resolution then the device teh demo was recorded on so I had to use the windows magnifier application  
+*The game was developed on a laptop with a smaller screen+smaller resolution then the device the demo was recorded on so I had to use the windows magnifier application  
 
 This was my first large code project. It turned out pretty well, with lots of features(listed below) and It was also how I first learnt about core Object Oriented Programming principles.
 
